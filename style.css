@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: orange;
+}
+#image{
+    width: 60%;
+    border: 3px solid white;
+}
+
+.first{
+    color:white;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Libre Baskerville", serif;
+}
+
+.second{
+    color:coral;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+
+.third{
+    color:gold;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+.four{
+    color:rgb(7, 211, 238);
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+
+.five{
+    color:rgb(57, 238, 7);
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+
+.six{
+    color:rgb(238, 111, 7);
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
